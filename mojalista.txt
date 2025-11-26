@@ -1,1 +1,12 @@
 00:1A:79:92:10:D0=http://mag.alphatx.me:80/c/
+00:1A:79:6D:F7:C3=http://mag.alphatx.me:80/c/
+00:1A:79:B5:9F:C0=http://mag.alphatx.me:80/c/
+00:1A:79:7F:AA:65=http://mag.alphatx.me:80/c/
+00:1A:79:E7:A8:D6=http://mag.alphatx.me:80/c/
+00:1A:79:D1:E5:65=http://mag.alphatx.me:80/c/
+00:1A:79:BB:E3:92=http://mag.alphatx.me:80/c/
+00:1A:79:B5:AD:1D=http://mag.alphatx.me:80/c/
+00:1A:79:56:80:AE=http://mag.alphatx.me:80/c/
+00:1A:79:3B:7F:CA=http://mag.alphatx.me:80/c/
+00:1A:79:92:10:D0=http://mag.alphatx.me:80/c/
+00:1A:79:17:01:C1=http://mag.alphatx.me:80/c/
