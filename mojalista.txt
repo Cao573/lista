@@ -1,0 +1,1 @@
+00:1A:79:63:33:30=http://mag.infobox.live:80/c/
