@@ -1,2 +1,1 @@
-00:1A:79:94:13:52=http://max.tx-ott.me:80/c/
 00:1A:79:E7:8F:9A=http://slayerteam.in.rs:80/c/
